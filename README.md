@@ -14,7 +14,7 @@ competitive programming problems.
 
 ---
 ## Demo Video 
-Drive link :- https://drive.google.com/file/d/1B6FFjjkyr0R0_LySDIGXJoVq_I5vEGbR/view?usp=sharing
+Drive link :- 
 ___
 
 ## Dataset
